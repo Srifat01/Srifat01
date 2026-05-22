@@ -1,16 +1,61 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Md. Shoibe Hossain Rifat</h1>
+<h3 align="center">CSE Undergraduate • Builder • Open Source Enthusiast</h3>
 
-<!--
-**Srifat01/Srifat01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=600&lines=Building+open-source+projects;Learning+AI+and+Systems;Exploring+real-world+engineering+problems" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I’m a computer science undergrad who enjoys turning ideas into real systems.  
+I’m currently focused on AI, systems thinking, and building projects that actually *do something useful* instead of just sitting in a repo.
+
+- Exploring AI + software engineering intersection  
+- Building open-source tools under **RAC0P**
+- Interested in scalable systems and applied research
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nodejs,git,linux,figma" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Srifat01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srifat01&theme=tokyonight" />
+</p>
+
+---
+
+### ⚡ Current Focus
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Srifat01&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect
+
+<p align="center">
+  <a href="https://github.com/Srifat01">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer"/>
+</p>
