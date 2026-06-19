@@ -45,12 +45,14 @@ I’m currently focused on AI, systems thinking, and building projects that actu
 
 ### 🌐 Connect
 
+### 🌐 Connect
+
 <p align="center">
   <a href="https://github.com/Srifat01">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <a href="mailto:shoiberifat797@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
